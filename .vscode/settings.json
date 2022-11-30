@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "player.h": "c",
+        "sdl_rect.h": "c",
+        "lander.h": "c",
+        "main.h": "c",
+        "stdio.h": "c"
+    }
+}
